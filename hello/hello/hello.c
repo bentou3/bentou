@@ -1,6 +1,9 @@
 #include <stdio.h>
 int main()
 {
-	printf("hello world");
+	 
+    //char arr[] = { "a","b" };
+	//printf("%c",arr[]);
+	printf("(are you ok\???)");
 	return 0;
 }
