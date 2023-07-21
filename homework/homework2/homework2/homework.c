@@ -133,20 +133,20 @@
 //}
 
 //分数求和
-int main()
-{
-	int  i = 0;
-	double n = 0;
-	double sum = 0;
-	for (i = 1; i <= 100; i++)
-	{
-		n = n + 1;
-		if (i % 2 == 1)
-		{
-			sum = sum + 1 / n;
-		}
-		else sum = sum - 1 / n;
-	}
-	printf("%lf", sum);
-	return 0;
-}
+//int main()
+//{
+//	int  i = 0;
+//	double n = 0;
+//	double sum = 0;
+//	for (i = 1; i <= 100; i++)
+//	{
+//		n = n + 1;
+//		if (i % 2 == 1)
+//		{
+//			sum = sum + 1 / n;
+//		}
+//		else sum = sum - 1 / n;
+//	}
+//	printf("%lf", sum);
+//	return 0;
+//}
